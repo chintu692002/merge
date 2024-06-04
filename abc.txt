@@ -1,4 +1,8 @@
 red
 green 
 yellow
+<<<<<<< HEAD
 pink
+=======
+white
+>>>>>>> issue
